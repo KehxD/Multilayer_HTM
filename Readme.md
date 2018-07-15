@@ -10,4 +10,4 @@ The project is based on the Hierarchical Temporal Memory structure done by Numen
 
 For a more specific evaluation, please read the report as mentioned in the description. The following is the test setup of the report and its evaluation metrics.
 
-[!][Evaluation of Multilayer Hierarchical Temporal Memory] (https://github.com/KehxD/Multilay_Hierarchical_Temporal_Memory/blob/master/report/eval_mhtm.png)
+[!][Evaluation of Multilayer Hierarchical Temporal Memory](https://github.com/KehxD/Multilay_Hierarchical_Temporal_Memory/blob/master/report/eval_mhtm.png)
